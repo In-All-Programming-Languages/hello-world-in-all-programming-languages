@@ -1,8 +1,8 @@
 <h1 align="center"> 👋 Hello World in All Programming languages 👋 </h1>
- 
-<img alt="Banner" src="https://user-images.githubusercontent.com/67812625/160925187-2a6ce024-41b9-40fa-9bf3-687de0d6536a.jpeg" align="center">  
-
-###### Picture credit of this picture to [Techworm](https://www.techworm.net/2016/07/can-say-hello-world-27-different-coding-languages.html)  
+<p align="center">
+ <img alt="Banner" src="https://user-images.githubusercontent.com/67812625/160925187-2a6ce024-41b9-40fa-9bf3-687de0d6536a.jpeg">  
+</p>
+<h6 align="center">Picture credit of this picture to <a href="https://www.techworm.net/2016/07/can-say-hello-world-27-different-coding-languages.html">Techworm</a></h6>
 
 ---
 
