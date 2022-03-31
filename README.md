@@ -1,14 +1,17 @@
 <h1 align="center"> 👋 Hello World in All Programming languages 👋 </h1>
  
-![Banner](https://user-images.githubusercontent.com/67812625/160925187-2a6ce024-41b9-40fa-9bf3-687de0d6536a.jpeg)
+<img alt="Banner" src="https://user-images.githubusercontent.com/67812625/160925187-2a6ce024-41b9-40fa-9bf3-687de0d6536a.jpeg" align="center">  
+
 ###### Picture credit of this picture to [Techworm](https://www.techworm.net/2016/07/can-say-hello-world-27-different-coding-languages.html)  
 
 ---
 
 ## ✨ About This Repo
 This is a collection of the ways to write "Hello world!" on the console in each language.  
-The mean porpuse of this repo is for showing the hello world projects for everyone. ✨
-###### This repo has been created by [MohaDev69]() & [AbdlerahmanDwedar]()
+The mean porpuse of this repo is for showing the hello world projects for everyone. ✨  
+You can see more like all hello world in all languages (including markup & frameworks), you can check [hello-world](https://github.com/leachim6/hello-world) out.
+
+###### This repo has been created by [MohaDev69](https://github.com/MohaDev-69) & [AbdelrahmanDwedar](https://github.com/AbdelrahmanDwedar)
 
 --- 
 
