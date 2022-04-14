@@ -33,4 +33,4 @@ You can see more like all hello world in all languages (including markup & frame
 ---
 
 <h4 align="center">Made With ❤️ in Cairo, Egypt 🇪🇬 & Baghdad, Iraq 🇮🇶</h4>
-<h6 align="center"> ©️ all Copyrights reserved to <a href="">In All Programming Languages</a> - 2022 | MIT License </h6>
+<h6 align="center"> ©️ all Copyrights reserved to <a href="">In All Programming Languages</a> - 2022 | Apache-2.0 License </h6>
